@@ -17,3 +17,16 @@ rustup update
 
 rustup self update
 
+## To comment out code or info.
+
+// For single lines.
+
+/* For multiple lines 
+of code or info. */
+
+
+## Printing Hello World!
+
+fn main() {
+    println!("Hello World!");
+}
