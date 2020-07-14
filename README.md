@@ -1,6 +1,9 @@
 # [Rust](https://www.rust-lang.org)
 
-# To install Rust on Mac.
+[The Rust Programming Language Book](https://doc.rust-lang.org/book/)
+
+
+## To install Rust on Mac.
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
