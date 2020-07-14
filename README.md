@@ -1,4 +1,4 @@
-# Rust
+# [Rust](https://www.rust-lang.org)
 
 # To install Rust on Mac.
 
