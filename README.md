@@ -5,28 +5,28 @@
 [Cheatsheet for Mathematical Notation](https://rustrepo.com/repo/eduardonunesp-math-as-rust-rust-learning-resources) 
 
 
-<b>To install Rust on Mac.</b>
+## To install Rust on Mac:
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-<b>Use Rust without having to download anything.</b> 
+## Use Rust without having to download anything:
 
 [Rust Playground](https://play.rust-lang.org/?utm_source=thenewstack&utm_medium=website&utm_campaign=platform)
 
-<b>To check the current version of rust that you have on the CL.</b>
+## To check the current version of rust that you have on the CL:
 
 rustc --version
 
 
-<b>To update Rust.</b>
+## To update Rust:
 
 rustup update
 
-<b>To make sure Rust is updated.</b>
+## To make sure Rust is updated:
 
 rustup self update
 
-<b>To comment out code or info.</b>
+## To comment out code:
 
 // For single lines.
 
@@ -34,7 +34,7 @@ rustup self update
 of code or info. */
 
 
-<b>Printing Hello World!</b>
+## Printing Hello World!
 
 fn main() {
     println!("Hello World!");
