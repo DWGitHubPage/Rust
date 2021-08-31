@@ -26,6 +26,11 @@ rustup update
 
 rustup self update
 
+## Get Rust documentation from the command line:
+
+rustup doc
+
+
 ## To comment out code:
 
 // For single lines.
